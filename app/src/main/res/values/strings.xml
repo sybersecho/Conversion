@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Conversion</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="conver_from_text">Convert Form</string>
+    <string name="default_teaspoon_value">1.0 teaspon</string>
+    <string name="default_cup_value">.0208 cup</string>
+    <string name="devault_tbs_value">.3333 tbs</string>
+    <string name="default_oz_value">.1666 oz</string>
+    <string name="default_kg_value">.0057 Kg</string>
+    <string name="default_quat_value">.0053 quart</string>
+</resources>
